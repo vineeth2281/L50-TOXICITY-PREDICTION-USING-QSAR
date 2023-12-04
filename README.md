@@ -1,4 +1,5 @@
-#L50-TOXICITY-PREDICTION-USING-QSAR#
+Markup :  # L50 TOXICITY PREDICTION USING QSAR #
+
 
 
 To predict the LC50 values, which represent the concentration causing death in 50% of test fish over a 96-hour period, quantitative structure-activity relationship (QSAR) models were developed. The study focused on 908 chemicals and utilized six molecular descriptors: MLOGP (molecular properties), CIC0 (information indices), GATS1i (2D autocorrelations), NdssC (atom-type counts), NdsCH (atom-type counts), and SM1_Dz(Z) (2D matrix-based descriptors).
